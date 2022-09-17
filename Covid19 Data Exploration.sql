@@ -1,4 +1,6 @@
 -- The subsequent analysis is on Covid19 data 
+-- Link to Dataset: https://ourworldindata.org/covid-deaths
+-- Separated in two sheets and uploaded to Azure sql server
 -- Data Exploration CovidDeaths Table
 
 --country level
